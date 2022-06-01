@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp  
 
 <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp  
-
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![github stats](https://github-readme-stats.vercel.app/api?username=blueduckgraymouse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![test](https://github-readme-stats.vercel.app/api/top-langs/?username=blueduckgraymouse&layout=compact)](https://github.com/junsuk5?tab=repositories)
