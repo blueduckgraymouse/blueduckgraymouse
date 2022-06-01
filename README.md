@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> &nbsp 
 </p>
 
 
