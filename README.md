@@ -1,6 +1,8 @@
 <!-- Header -->
 <h1>풀스택 개발자를 꿈꾸는 임현덕입니다.</h1>
 
+<br/>
+
 <!-- Badge -->
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
@@ -26,14 +28,17 @@
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Notepad++-#90E59A?style=flat-square&logo=Notepad++&logoColor=white"/> &nbsp 
-<br/>
-<h3 align="center"><b>🐬 Cowork Tools 🐬</b></h3>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notepad++-#90E59A?style=flat-square&logo=Notepad++&logoColor=white"/> &nbsp
 </p>
 
+<br/>
+
+<h3 align="center"><b>🐬 Cowork Tools 🐬</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> &nbsp 
+</p>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=blueduckgraymouse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
