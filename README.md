@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Notepad++-#90E59A?style=flat-square&logo=Notepad++&logoColor=white"/> &nbsp
 </p>
 
 <br/>
